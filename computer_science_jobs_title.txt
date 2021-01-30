@@ -1,0 +1,12 @@
+COmputer sciece field jobs titles
+
+1. Front-end engineer
+2. JAVA DEVELOPER
+3. Data scientist
+4. Product manager
+5. DevOps Engineer
+6. Data Engineer
+7. Software Engineer
+8. Speech Langauge Pathologist
+9. Stratergy Manager
+10. Business Development Manager.
