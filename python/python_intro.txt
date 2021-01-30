@@ -1,0 +1,60 @@
+https://www.youtube.com/watch?v=WvhQhj4n6b8
+details: 
+
+--> python is a general pupose language.
+--> for machine learning, web development, artificial inteligent.
+--> intedation require,
+--> slow compare to other language, 
+--> it is much productive for machine learning and artificial language.
+
+--> it is easy to learn
+--> it is open source langauge
+--> modifiy the code is easy
+
+
+USES:
+--> GUI application
+--> Web application
+--> mobile apps
+--> desktop application
+--> service side code
+--> Artificial Intelligent
+--> machine learning algorithm
+
+
+--> huge community who constantly make libraries and help those in need
+--> the algorithms are ready to use , which increase productivity.
+
+FEATURES OF PYTHON:
+--> Simplicity
+--> Open source
+--> Portability (write and share is easy)
+--> Embeddable and Extensible (covert other languages code into its, to run)
+--> Interpreted
+--> Huge Libraries
+--> Object Oriented (for real world senario)
+
+COMPANY USE PYTHON:
+--> GOOGLE: BETTER SEARCH RESULT
+--> DROPBOX: Cloud platform: THe server and client application are coded in python
+--> NETFLIX: Machine learning is used to cluster users bashed on their interest on shows and retian them for longer
+--> NATIONAL SECURITY AGENCY of USA: cyber security analysis and other encryption and decryption work is done using python
+--> BIT TORRENT: transfer of files between peer-to-peer which started out as a normal python FIle
+--> NASA: Scientific calculation are computed using Python
+
+LEARN PYTHON STEPS:
+--> BASIC LEARNING:
+   ----> Variable, data type, operators, arrays, flow control, methods, file handling, OOPS, practice
+
+
+CAREER OPPORTUNITY:
+
+--> WEB DEVELOPMENT and FRAMEWORKS (FRAMEWORKs: DJANGO, FLOWER)
+--> GAME DEVELOPMENT
+--> BIG DATA
+--> WEB TESTING
+--> AI/ DATA Science
+--> SMART DEVICES(IOT)
+--> SOFTWARE DEVELOPER
+--> AUTOMATION
+
