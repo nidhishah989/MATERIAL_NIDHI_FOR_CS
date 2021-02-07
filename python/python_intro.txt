@@ -45,16 +45,88 @@ COMPANY USE PYTHON:
 LEARN PYTHON STEPS:
 --> BASIC LEARNING:
    ----> Variable, data type, operators, arrays, flow control, methods, file handling, OOPS, practice
-
+   ----> functions. exceptions, I/O operations, loops, control statments, conditional statements,
+         Data structure, OOPs concepts, File handling ..
+   ----> For master Web framework:: Django or flask, Tkinter for GUI bases web apps, MVC-MVT architecture, HTML, CSS
+   ----> For data science:: Statistics, and applied maths, Data visualization, analysis, SQL,Pandas, Matplotlib, seaborn,Data manipulation
+   ----> Machine Learning and AI: machine learning algorithm, scikit-learn, Tensorflow, probability & statistic, Neural network, deep learning.
+   ----> Deep Learning:: Neural network architecture, video, audio and language processing.
+   ----> Miscellaneous:: OpenCV for computer vision, Web scrapping with Bs4, predictions models etc
 
 CAREER OPPORTUNITY:
 
---> WEB DEVELOPMENT and FRAMEWORKS (FRAMEWORKs: DJANGO, FLOWER)
---> GAME DEVELOPMENT
---> BIG DATA
+--> WEB DEVELOPMENT and FRAMEWORKS (FRAMEWORKs: DJANGO, FLOWER, Bottle)
+--> GAME DEVELOPMENT (pygame)
+--> BIG DATA 
 --> WEB TESTING
 --> AI/ DATA Science
 --> SMART DEVICES(IOT)
 --> SOFTWARE DEVELOPER
 --> AUTOMATION
 
+JOB ROLES:
+-->Software Enginneer/ Developer (API, MOBILE< WEB< GUI (framework: pygame,panda3d)< GAME DEVELOPERS)
+                                 SKILLS:( Core python, web frameworks, object relational mappers, RESTful APIs, python application, Front-end skills, database knowledge, Script Writing(ex: create script to run 7 software at a time).
+-->Pyhton Web Developer:         skills: Core python, Django, Flask, HTML, CS<< MVC MVT Architecture, Server-side development, Front-End Skills, Database Knowledge, Script Writing(for automation).
+-->Data Scientist:               skills:: core python, Mathematics and statistic, Scilit-Learn, Matplotlib, Pandas, Numpy, Data Visulization, Machine Learning/AI, Database management, Apache Spark
+-->Data Analyst:                 skills:: Mathematics, data analyst, seaborn, pandas, Numpy, data interpretation, problem saving, building prediction models, database knowledge, data manipulation
+-->AI/ML Engineer:               skills:: programming, data science, machine learning, stastistic, applied mathematics(framework fot mathematical computation: Numpy, SymPy), neural networking(deep data), rapid prototyping, machine learning algorithm, data modeling
+-->Python Automation Testing:    skills:: (scripts) Selenium web driver, Selenium IDE, Selenium Grid, TestNG
+-->Deep Learning Engineer:	 skills:: mainly neural network, nerural network architecture, Language, audio, video processing.
+
+
+PYTHON DEVELOPER : CAN BE "SOFTWARE ENGINEER" OR "DATA ANALYST" OR "DATA SCIENTIST"
+--> writes effective code for backend component, tests and debug program, 
+--> creates applications that can be interegrated with the present areas.
+--->skillset for python developer: AWS, Django, APIs, Docker, Linux, Clud Computing, Machine learning, Javascript, Java
+
+Development Environment for Python (IDE)
+1. PYCHARM: for window, linux, macos, you can add more plug-ins according to requirement, IDE FOR PYTHON (best IDE for 2020 ): free - community version, professional: price, web-development.
+            refactoring feature: rename the variable name all over in file. just by this feature.
+
+2. Spyder: design mainly for dat analysis and scientist. open source, cross platform, static code analysis,
+3. PyDev on eclipse: license:Eclipse public license, Cross-platform, open-source 
+4. Rodeo : cross platform, open-source, for machine learning and data science
+5. sublimeText: goto anything feature, command palette provide robust matching for keyboard invocations,
+		python-based plugins API, Allows simulaneous editing, preferences can be made project specific
+		Compatibility: cross-platform
+		Price: with charge
+6. Wing: automatic multi-process and child process debugging, remote debug process, module browser,
+	 Refactoring, auto-completion for non python files, customizable and extensible,remote development support
+	 Compatibility: cross-platform
+	 Price: Professional - with charge, wing person is free for student
+7. eric python: formatable window layout, formalable syntax highlighting, code-folding,
+		furnished with a class browser, built-in support for unit testing
+		built in support for Django
+		Compatibility: Cross-platform
+		Price: Open-source
+
+8. atom: enables support for third-party packages, allows installation and management of packages, provides support for a
+         number of language other than python, exception reporting package
+	 Compatibility: Cross-platform
+	 Price: Open-source
+
+9. Thonny: Seperate windows to execute function calls, line numbers are available, log of user actions is available,
+	   statement stepping without breakpoint, step-by-step assistance
+          price: Open-source
+10. IDLE: avaialability of python shell with syntax highlighting, a multi-window text editor, program animation or stepping,
+          Breakpoints are avaiable, call stack is clearly visible, 
+          conpatibility: Cross platform
+          price: Open-source
+notepad++
+bluefish (MAC users)
+Komdo IDE
+VIm
+
+
+Main Python Website: https://www.python.org/
+
+
+Installation python::
+1. Dowload latest python version
+2. check in pop -up window, the add python ... to PATH should be selected, and then install python.
+3. Make sure the path from PC->PROPERTIES-> ADVANCE SYSTEM SETTING->ENVIRONMENT VARIABLE-> CHECK PATH LINK: SHOULD BE PYTHON.
+4. iF THE PYTHON PATH IS NOT THERE, WE HAVE TO MAKE SURE WE ADD THAT
+
+
+nidhi version of python download.: command window:: type python:: if microsoft center is main source of software, it will open the app info for latest python version:: install that app:: it will set PATH itself
